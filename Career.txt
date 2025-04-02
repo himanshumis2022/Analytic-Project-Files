@@ -1,0 +1,27 @@
+Python
+	    {
+		1. Data Analysis and Visualization
+		2. Game Development 
+		3. GUI 
+	        4. Web-Development 
+		5. Modules Learning 
+		6. AI/ML
+		7. Automation
+					 }
+
+
+Ctrl + alt + s(Details of System using)
+Alt + f + t (opens options in Excel)
+Ctrl + window + o (for on-screen keyboard)
+
+
+python -m venv <Filename>
+Myenv\Scripts\activate
+pip freeze > requirements.txt
+deactivate
+
+https://github.com/himanshumis2022/Ai-Chatbot1.git
+
+https://ai-health-assistance1.streamlit.app/
+
+https://www.linkedin.com/learning/introduction-to-career-skills-in-data-analytics/defining-data-analysis-and-roles-in-data-analysis?autoSkip=true&contextUrn=urn%3Ali%3AlyndaLearningPath%3A62f54eab498e35759d0924d7&resume=false
